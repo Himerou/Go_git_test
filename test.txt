@@ -2,3 +2,4 @@ VersionA
 Feature Version
 Master Version
 Another Feature Version
+GitHub Remote Test
