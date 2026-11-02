@@ -2,6 +2,6 @@ VersionA
 Feature Version
 Master Version
 Another Feature Version
-GitHub Remote Test
+GitHub Remote Test Remote version
 Remote edit
 Do you see 
